@@ -1,2 +1,2 @@
 # comp2245-assignment1
-First Lab
+This is Assignment 1 for Garvin Ponde
